@@ -1,0 +1,10 @@
+LICENSE
+README.md
+pyproject.toml
+setup.cfg
+src/collections_fw/__init__.py
+src/collections_fw/collections_framework.py
+src/collections_fw_MAKSYM_GERMAN.egg-info/PKG-INFO
+src/collections_fw_MAKSYM_GERMAN.egg-info/SOURCES.txt
+src/collections_fw_MAKSYM_GERMAN.egg-info/dependency_links.txt
+src/collections_fw_MAKSYM_GERMAN.egg-info/top_level.txt
